@@ -20,12 +20,13 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+🌱 Estoy aprendiendo PHP y profundizando mis conocimientos en JavaScript.
 
+🤹‍♂️ Me apasiona el desarrollo front-end, back-end y también el desarrollo móvil.
+
+🚀 Actualmente estoy desarrollando proyectos como freelancer y siempre trabajando en algo nuevo.
+
+💬 No dudes en preguntarme lo que sea, ¡me encanta ayudar!
 
 
 **Languages and Tools:**  
