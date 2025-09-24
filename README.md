@@ -20,13 +20,10 @@
 
 **Sobre mi!**
 
-🌱 Estoy aprendiendo PHP y profundizando mis conocimientos en JavaScript.
+🤹‍♂️ Me apasiona el desarrollo front-end y también el desarrollo móvil.
 
-🤹‍♂️ Me apasiona el desarrollo front-end, back-end y también el desarrollo móvil.
+🚀 Actualmente estoy desarrollando proyectos y siempre trabajando en algo nuevo.
 
-🚀 Actualmente estoy desarrollando proyectos como freelancer y siempre trabajando en algo nuevo.
-
-💬 No dudes en preguntarme lo que sea, ¡me encanta ayudar!
 
 
 **Languages and Tools:**  
